@@ -1,2 +1,2 @@
 # python_stats
-Statistics and Python
+Playing around with Python's statistical packages
